@@ -6,7 +6,8 @@
     "node": "6"
   },
   "scripts": {
-    "start": "echo 'test'"
+    "start": "echo 'start'",
+    "test": "echo 'test'"
   },
   "dependencies": {
     "babel-polyfill": "6.9.1",
